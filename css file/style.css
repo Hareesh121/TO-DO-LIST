@@ -1,0 +1,63 @@
+
+
+input[type="checkbox"]:checked 
+{
+    box-shadow: 0 0 0 2px rgb(12, 12, 12);
+}
+
+.form-group label{
+    font-size: 20px;
+    color: seashell;
+}
+
+
+
+.navbar-dark .navbar-nav .nav-link.active,
+.navbar-dark .navbar-nav .nav-link:hover
+{
+    color: rgb(52, 197, 32);
+}
+
+.Title{
+    margin-top: 50px;
+  color: azure;
+}
+
+ body
+{
+    background-image: url(https://netstorage-legit.akamaized.net/images/6332ee25eeed942d.jpg?imwidth=900);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+
+}
+
+h1
+{
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: rgb(255, 255, 255)
+
+}
+
+.Mymargin
+{
+    box-shadow: 0px 0px 5px 5px rgb(72, 96, 161);
+   padding: 40px 50px 50px 50px;
+}
+
+
+.login
+{
+    background-color: rgba(0, 0, 0, 0.43);
+}
+
+.log
+{
+    text-align: center;
+    padding-bottom: 20px;
+    font-family: fantasy;
+    color: blue;
+}
+
+
